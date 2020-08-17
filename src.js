@@ -1,1 +1,5 @@
-console.log(123);
+let num = 1;
+while(num<1){
+    console.log(num);
+    num++;
+}
